@@ -23,7 +23,7 @@
 |------------------|------------------------------|---------------------------|------------------------|--------------------|
 | Introduction to LLMs | [Blog 1](#)                | [YouTube 1](#)            | [Paper 1](#)           | [Other Resource](#)|
 | Training LLMs    | [Blog 2](#)                  | [YouTube 2](#)            | [Paper 2](#)           | [Other Resource](#)|
-| Applications of LLMs | [Blog 3](#)               | [YouTube 3](#)            | [Paper 3](#)           | [Other Resource](#)|
+| Multi AI Agent Frameworks | [LangGraph](https://langchain-ai.github.io/langgraph/)               | [YouTube 3](#)            | [Paper 3](#)           | [Other Resource](#)|
 | Fine-Tuning      | [Blog 4](#)                  | [YouTube 4](#)            | [Paper 4](#)           | [Other Resource](#)|
 
 
