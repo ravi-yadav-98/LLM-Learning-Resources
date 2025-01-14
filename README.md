@@ -1,4 +1,4 @@
-# LLM-Learning-Resources
+ollam# LLM-Learning-Resources
 
 ## Learning Resources for Large Language Models (LLMs) for Personal Reference
 ### 1. Transformers Architecture and Attention Mechanism Related
@@ -31,7 +31,7 @@
 
 | Model Types       | Model Name      | Blog Articles         | YouTube Resources      | Paper                  | Any Other          |
 |-------------------|-----------------|-----------------------|------------------------|------------------------|--------------------|
-| Embedding Models  | Embd Model 1    | [Blog 2](#)           | [YouTube 2](#)         | [Paper 2](#)           | [Other Resource](#)|
+| Embedding Models  | Ollama: mxbai-embed-large    | [Blog 2](#)           | [YouTube 2](#)         | [Paper 2](#)           | [Ollama](https://ollama.com/library/mxbai-embed-large)|
 |                   | Embd Model 2    | [Blog 3](#)           | [YouTube 3](#)         | [Paper 3](#)           | [Other Resource](#)|
 | Vision Models     | Vision Model 1  | [Blog 4](#)           | [YouTube 4](#)         | [Paper 4](#)           | [Other Resource](#)|
 |                   | Vision Model 2  | [Blog 5](#)           | [YouTube 5](#)         | [Paper 5](#)           | [Other Resource](#)|
