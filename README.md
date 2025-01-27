@@ -27,13 +27,25 @@ ollam# LLM-Learning-Resources
 | ReAct Prompting      | [Blog 4](#)                  | [YouTube 4](#)            | [Paper 4](#)           | [Github](https://react-lm.github.io/) <br> [Paper](https://arxiv.org/abs/2210.03629)|
 
 
-### 3. Essential LLM Models
+### 4. Essential LLM Models
 
 | Model Types       | Model Name      | Blog Articles         | YouTube Resources      | Paper                  | Any Other          |
 |-------------------|-----------------|-----------------------|------------------------|------------------------|--------------------|
 | Embedding Models  | Ollama: mxbai-embed-large    | [Blog 2](#)           | [YouTube 2](#)         | [Paper 2](#)           | [Ollama](https://ollama.com/library/mxbai-embed-large)|
 |                   | Embd Model 2    | [Blog 3](#)           | [YouTube 3](#)         | [Paper 3](#)           | [Other Resource](#)|
 | Vision Models     | Vision Model 1  | [Blog 4](#)           | [YouTube 4](#)         | [Paper 4](#)           | [Other Resource](#)|
+|                   | Vision Model 2  | [Blog 5](#)           | [YouTube 5](#)         | [Paper 5](#)           | [Other Resource](#)|
+|                   | Vision Model 3  | [Blog 6](#)           | [YouTube 6](#)         | [Paper 6](#)           | [Other Resource](#)|
+
+
+
+### 5. Semantic Search Related
+
+| Model Types       | Model Name      | Blog Articles         | YouTube Resources      | Paper                  | Any Other          |
+|-------------------|-----------------|-----------------------|------------------------|------------------------|--------------------|
+| Embedding Models  | Ollama: mxbai-embed-large    | [Blog 2](#)           | [YouTube 2](#)         | [Paper 2](#)           | [Ollama](https://ollama.com/library/mxbai-embed-large)|
+|                   | Embd Model 2    | [Blog 3](#)           | [YouTube 3](#)         | [Paper 3](#)           | [Other Resource](#)|
+| ANN Methods     | ANNOY  | [Blog](#)           | [YouTube 4](#)         | [ANNOY-Repo](https://github.com/spotify/annoy)           | [Other Resource](#)|
 |                   | Vision Model 2  | [Blog 5](#)           | [YouTube 5](#)         | [Paper 5](#)           | [Other Resource](#)|
 |                   | Vision Model 3  | [Blog 6](#)           | [YouTube 6](#)         | [Paper 6](#)           | [Other Resource](#)|
 
